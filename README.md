@@ -2,7 +2,7 @@
 Note :- The code in this repository is for self learning purpose only
 
 1) Singly Linked List Node
-2) SinglY Linked List
+2) Singly Linked List
 3) Doubly Linked List Node
 4) Doubly Linked List
 5) Circular Linked List
