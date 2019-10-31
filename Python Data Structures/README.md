@@ -1,5 +1,4 @@
 Python-Data-Structures
-Note :- The code in this repository is for self learning purpose only
 
 1) Singly Linked List Node
 2) Singly Linked List
